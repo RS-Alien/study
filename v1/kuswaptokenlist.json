@@ -18,7 +18,7 @@
       "name": "Wrapped KCS",
       "symbol": "WKCS",
       "decimals": 18,
-      "logoURI": "https://kuswap.finance/kcs.png"
+      "logoURI": "https://api.ksfswap.info/kcs.png"
     },
     {
       "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
