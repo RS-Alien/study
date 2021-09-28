@@ -13,6 +13,14 @@
       "logoURI": "https://ipfs.kuswap.finance/ipfs/QmUnHUmCbPiV2YuxYAHWFtNEs6mdRBZGqw5CZZRNv6YfN6/Kus.png"
     },
     {
+      "address": "0x755d74d009f656ca1652cbdc135e3b6abfccc455",
+      "chainId": 321,
+      "name": "KsfSwap Finance",
+      "symbol": "KSF",
+      "decimals": 18,
+      "logoURI": "https://api.ksfswap.info/ksf.png"
+    },
+    {
       "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
       "chainId": 321,
       "name": "Wrapped KCS",
